@@ -22,3 +22,8 @@ This project allows users to easily place custom text behind an image for a crea
 - Design unique banners or headers for websites.
 - Make personalized greeting cards, posters, or digital art.
 Thanks for Bolt.new
+![processed_image_with_text](https://github.com/user-attachments/assets/5051ba03-9aec-4a07-b6a7-89523909b5a5)
+![processed_image_with_text (1)](https://github.com/user-attachments/assets/88c6e28d-9489-45fc-b256-82359c1afadd)
+![processed_image_with_text](https://github.com/user-attachments/assets/65b158fe-7947-4e64-aeec-fe14ec60a48f)
+
+
